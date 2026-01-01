@@ -43,7 +43,8 @@ This is the official portfolio for **TheStoway**. It's built with modern web tec
 
 ## 🤝 Connect
 - **GitHub**: [TheStoway](https://github.com/TheStoway)
-- **Discord**: [Join the community](https://discord.gg/29fRaUEq)
+- **Discord**: [Join the community](https://discord.gg/29fRaUEq
+- **Sitio Web**: [Our website.](https://thestoway.netlify.app/)
 
 ---
 *Created with passion by TheStoway.*
