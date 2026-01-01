@@ -1,16 +1,49 @@
-# React + Vite
+# TheStoway Web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Independent developer identity focused on open-source projects, game development, and creative experiments.
 
-Currently, two official plugins are available:
+## 🚀 About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is the official portfolio for **TheStoway**. It's built with modern web technologies to showcase projects, share knowledge, and collaborate with the creative community.
 
-## React Compiler
+### 🌐 Features
+- **Multi-language Support**: Automatically detects system language (English/Spanish).
+- **Responsive Design**: Professional UI inspired by Android Developers documentation.
+- **Modern Animations**: Smooth transitions powered by Framer Motion.
+- **Fast Performance**: Built on Vite with React 19.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
+- **Framework**: [React 19](https://react.dev/)
+- **Build Tool**: [Vite](https://vitejs.dev/)
+- **Animation**: [Framer Motion](https://www.framer.com/motion/)
+- **Localization**: [i18next](https://www.i18next.com/)
+- **Icons**: [Lucide React](https://lucide.dev/)
 
-## Expanding the ESLint configuration
+## 📦 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/TheStoway/PaginaWeb.git
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Run in development mode**:
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production**:
+   ```bash
+   npm run build
+   ```
+
+## 🤝 Connect
+- **GitHub**: [TheStoway](https://github.com/TheStoway)
+- **Discord**: [Join the community](https://discord.gg/29fRaUEq)
+
+---
+*Created with passion by TheStoway.*
